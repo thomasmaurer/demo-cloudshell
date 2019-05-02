@@ -1,0 +1,13 @@
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\bin\Debug\netcoreapp2.1\NewWebApp.deps.json
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\bin\Debug\netcoreapp2.1\NewWebApp.runtimeconfig.json
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\bin\Debug\netcoreapp2.1\NewWebApp.runtimeconfig.dev.json
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\bin\Debug\netcoreapp2.1\NewWebApp.dll
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\bin\Debug\netcoreapp2.1\NewWebApp.pdb
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\obj\Debug\netcoreapp2.1\NewWebApp.csproj.CoreCompileInputs.cache
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\obj\Debug\netcoreapp2.1\NewWebApp.RazorAssemblyInfo.cache
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\obj\Debug\netcoreapp2.1\NewWebApp.RazorAssemblyInfo.cs
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\obj\Debug\netcoreapp2.1\NewWebApp.AssemblyInfoInputs.cache
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\obj\Debug\netcoreapp2.1\NewWebApp.AssemblyInfo.cs
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\obj\Debug\netcoreapp2.1\NewWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\obj\Debug\netcoreapp2.1\NewWebApp.dll
+C:\Users\thmaure\source\repos\demo-cloudshell\NewWebApp\NewWebApp\obj\Debug\netcoreapp2.1\NewWebApp.pdb
